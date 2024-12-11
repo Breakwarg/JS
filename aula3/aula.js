@@ -1,0 +1,1 @@
+console.log('Meu nome é "Lucas", estou aprendendo Jacascript ás', 7, 'da noite');
