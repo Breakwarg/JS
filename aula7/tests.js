@@ -12,4 +12,4 @@ console.log(anoNascimento);
 console.log(`${nome} ${sobrenome} tem ${idade} anos pesa ${peso} kg`);
 console.log(`tem,${alturaemM},de altura e seu imc é de, ${indiceMassaCorporal}`);
 console.log(`${nome} nasceu em ${anoNascimento}.`);
-// aula 7
+// aula 7 java script
